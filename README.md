@@ -1,1 +1,1 @@
-# population-genetic-project
+# HaploFrequencies 
