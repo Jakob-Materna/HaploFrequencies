@@ -7,3 +7,9 @@ The first argument specifies the DNA type (mtDNA/YDNA), the second argument spec
 ```
 ./HaploFrequencies.R mtDNA 500 Locality 2
 ```
+
+Alternatively, a previously created output file can be visualized without recalculating haplogroup frequencies:
+
+```
+./HaploFrequencies.R frequencies.xlsx
+```
