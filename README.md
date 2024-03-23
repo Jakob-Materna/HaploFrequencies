@@ -4,6 +4,6 @@ The latest version of the AADR table can be downloaded from the David Reich Lab 
 
 The first argument specifies the DNA type (mtDNA/YDNA), the second argument specifies the range of of a population in years (e.g. 100,500,1000), the third argument specifeis the spatial grouping method (Country/Locality) and the last argument specifies the level of basal haplogroup (1/2).
 
-'''
+```
 ./HaploFreqencies.R mtDNA 500 Locality 2
-'''
+```
